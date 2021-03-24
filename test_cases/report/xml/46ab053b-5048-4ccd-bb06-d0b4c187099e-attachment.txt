@@ -1,0 +1,2 @@
+ERROR    root:base_page.py:66 元素点击失败
+ERROR    root:base_page.py:66 元素点击失败

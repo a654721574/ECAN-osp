@@ -1,0 +1,12 @@
+new_role_data_success=[
+    {"name":"测试角色5527","officename":"自动化测试(勿删)","rolename":"测试角色5527","expected":"新增角色成功"}
+]
+query_role_data_success=[
+    {"name":"测试角色5527","expected":"测试角色5527"}
+]
+updata_role_data_success=[
+    {"name":"测试角色5527","roleescribe":"自动化测试角色","expected":"修改角色成功"}
+]
+del_role_data_success=[
+    {"name":"测试角色5527","expected":"删除成功"}
+]

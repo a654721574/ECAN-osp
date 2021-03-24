@@ -1,0 +1,3 @@
+ERROR    root:base_page.py:86 元素点击失败
+ERROR    root:base_page.py:176 点击元素失败
+ERROR    root:base_page.py:97 元素未出现
