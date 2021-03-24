@@ -141,11 +141,9 @@ class MenuPage(BasePage):
             print("是否隐藏：", self.text(self.display))
             # 选择显示
             self.move_click(self.display)
-
             # 点击提交
             self.move_click(self.submit)
             time.sleep(1.5)
-
 
     #查询操作
     def queryMenu(self,name):
