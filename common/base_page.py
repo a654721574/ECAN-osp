@@ -17,7 +17,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from config import Setting
 
 class BasePage:
-    url='/#/login'
+    url='/#/ygt/login'
     def __init__(self,driver:Chrome,load_timeout=10):
         self.driver = driver
         self.driver.set_page_load_timeout(load_timeout)
